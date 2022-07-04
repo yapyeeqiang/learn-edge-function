@@ -1,0 +1,17 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Seri Kembangan",
+			"country": {
+				"code": "MY",
+				"name": "Malaysia"
+			},
+			"subdivision": {
+				"code": "10",
+				"name": "Selangor"
+			}
+		},
+		"timestamp": 1656952812308
+	}
+}
